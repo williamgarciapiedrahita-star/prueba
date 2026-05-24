@@ -11,4 +11,8 @@ if a > b:
     print("a es mayor que b")
 else:    print("b es mayor que a")
 
+·ciclo
+for i in range(5):
+    print("Iteración:", i)
 
+    
